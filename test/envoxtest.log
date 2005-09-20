@@ -1,0 +1,42 @@
+
+2005-02-23 15:53:48 Ch = SYSTEM ErrCode = 5000
+ Descr = FATAL ERROR! Error loading driver DLL! Return code: 126
+ Block = N/A
+ Script= N/A
+
+=================================================================
+
+2005-02-23 15:53:48 Ch = SYSTEM ErrCode = 5000
+ Descr = FATAL ERROR! Error loading driver DLL! Return code: 126
+ Block = N/A
+ Script= N/A
+
+=================================================================
+
+2005-02-23 17:31:14 Ch = SYSTEM ErrCode = 7504
+ Descr = Intel Dialogic Boards Driver
+ Block = Dialogic Driver Error! Invalid device name gc_OpenEx :N_dtiB1 Failed
+ Script= N/A
+
+=================================================================
+
+2005-02-23 17:31:14 Ch = SYSTEM ErrCode = 7504
+ Descr = Intel Dialogic Boards Driver
+ Block = Dialogic Driver Error! Invalid device name gc_OpenEx :N_dtiB2 Failed
+ Script= N/A
+
+=================================================================
+
+2005-02-23 17:31:14 Ch = SYSTEM ErrCode = 7504
+ Descr = Intel Dialogic Boards Driver
+ Block = Dialogic Driver Error! Invalid device name gc_OpenEx :N_dtiB3 Failed
+ Script= N/A
+
+=================================================================
+
+2005-02-23 17:31:14 Ch = SYSTEM ErrCode = 7504
+ Descr = Intel Dialogic Boards Driver
+ Block = Dialogic Driver Error! Invalid device name gc_OpenEx :N_dtiB4 Failed
+ Script= N/A
+
+=================================================================
